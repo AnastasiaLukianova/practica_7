@@ -1,1 +1,1 @@
-print("pig")
+print('Cow, tomato and ugly kirilla')
